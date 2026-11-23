@@ -1,12 +1,18 @@
+[![Apache V2 License](http://img.shields.io/badge/license-Apache%20V2-blue.svg)](LICENSE)
+
+## Origin
+
+This repository is based on the original
+[cimplog](https://github.com/xmidt-org/cimplog) source code
+maintained under the xmidt-org organization. The code was copied into the
+rdkcentral organization, where ongoing maintenance and development now take place.
+
+- Original project: https://github.com/xmidt-org/cimplog
+- Current repository: https://github.com/rdkcentral/cimplog
+
 # cimplog
 
 Simple logging library for rdklogger
-
-[![Build Status](https://travis-ci.com/xmidt-org/cimplog.svg?branch=master)](https://travis-ci.com/xmidt-org/cimplog)
-[![codecov.io](http://codecov.io/github/xmidt-org/cimplog/coverage.svg?branch=master)](http://codecov.io/github/xmidt-org/cimplog?branch=master)
-[![Coverity](https://img.shields.io/coverity/scan/11572.svg)]("https://scan.coverity.com/projects/comcast-cimplog)
-[![Apache V2 License](http://img.shields.io/badge/license-Apache%20V2-blue.svg)](https://github.com/xmidt-org/cimplog/blob/master/LICENSE.txt)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=xmidt-org_cimplog&metric=alert_status)](https://sonarcloud.io/dashboard?id=xmidt-org_cimplog)
 
 # Building and Testing Instructions
 
